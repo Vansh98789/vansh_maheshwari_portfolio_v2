@@ -487,12 +487,11 @@ function Hero() {
             transition={{ ...fadeUp.transition, delay: 0.25 }}
             className="mt-6 text-base sm:text-lg text-white/60 max-w-xl leading-relaxed"
           >
-            SWE intern @ Dabur India. I design REST APIs, ship performant React
-            interfaces, and care about
-            <span className="text-white/85">
-              {" "}
-              systems that don't wake you at 3 AM
-            </span>
+            Creating experiences through code.
+<span className="text-white/85">
+  {" "}
+  Full stack. AI. Blockchain.
+</span>
             .
           </motion.p>
 
